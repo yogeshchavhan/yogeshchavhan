@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<a href=https://www.linkedin.com/in/yogesh-chavhan target="blank"><img align="center" src=https://en.wikipedia.org/wiki/File:Linkedin_icon.svg alt="https://www.linkedin.com/in/yogesh-chavhan/" height="20" width="20" /></a>
+<a href=https://www.linkedin.com/in/yogesh-chavhan target="blank"><img align="center" src=https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg alt="https://www.linkedin.com/in/yogesh-chavhan/" height="20" width="20" /></a>
 </p>
 
 ### Github Stats:-
