@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **yogeshchavhanofficial@gmail.com**
 
-  - 💻 Check My work on **https://aman2241.github.io/amancv.github.io/ **
-
 - ⚡ Fun fact: **Spongebob Squarepants was basically called Spongeboy, did you know that?** 
 <p align="center"><img src= https://hype.my/wp-content/uploads/2015/02/SpongeBob-SquarePants-Fun-Facts.jpg alt=c width="283" height="216.75"/> </p>
 
