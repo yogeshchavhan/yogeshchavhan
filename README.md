@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1 align="center">नमस्ते<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Yogesh Chavhan
+<h3 align="center"> Full Stack Developer | Competitive Programmer</h3>
+  
 
-<!--
-**yogeshchavhan/yogeshchavhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my **Competitive Programming and Software Development** skills.
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with **mentorship for Software Development Projects**
+
+- 💬 Ask me about **Competetive Programming and Software Devolpment**
+
+- 📫 How to reach me **yogeshchavhanofficial@gmail.com**
+
+  - 💻 Check My work on **https://aman2241.github.io/amancv.github.io/ **
+
+- ⚡ Fun fact: **Spongebob Squarepants was basically called Spongeboy, did you know that?** 
+<p align="center"><img src= https://hype.my/wp-content/uploads/2015/02/SpongeBob-SquarePants-Fun-Facts.jpg alt=c width="283" height="216.75"/> </p>
+
+
+<p align="center">
+<a href=https://www.linkedin.com/in/yogesh-chavhan target="blank"><img align="center" src=https://en.wikipedia.org/wiki/File:Linkedin_icon.svg alt="https://www.linkedin.com/in/yogesh-chavhan/" height="20" width="20" /></a>
+</p>
+
+### Github Stats:-
+[![Yogesh GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshchavhan&theme=radical)](https://github.com/yogeshchavhan/github-readme-stats)
+
+</br>
+
+
+
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=yogeshchavhan=green)
+ alt=yogeshchavhan/> </p>
