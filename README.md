@@ -1,5 +1,5 @@
 <h1 align="center">नमस्ते<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Yogesh Chavhan
-<h3 align="center"> Full Stack Developer | Competitive Programmer</h3>
+<h3 align="center"> Full Stack Developer @ Infosys</h3>
   
 
 - 🔭 I’m currently working on my **Competitive Programming and Software Development** skills.
